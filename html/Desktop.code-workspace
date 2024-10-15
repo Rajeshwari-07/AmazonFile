@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../New folder/java"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.base.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.controls.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.fxml.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.graphics.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.media.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.swing.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.web.jar",
+			"c:\\Users\\USER\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx-swt.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
